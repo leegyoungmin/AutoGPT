@@ -1,6 +1,6 @@
 {
     "github_repo_url": "https://github.com/leegyoungmin/AutoGPT.git",
-    "timestamp": "2023-10-17T15:43:32.748203",
-    "commit_hash_to_benchmark": "1eadc64dc0a693c7c9de77ddaef857f3a36f7950",
-    "branch_to_benchmark": "master"
+    "timestamp": "2023-10-17T15:45:12.629886",
+    "commit_hash_to_benchmark": "hash",
+    "branch_to_benchmark": "arena_submission_gpt"
 }
